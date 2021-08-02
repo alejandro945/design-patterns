@@ -1,6 +1,6 @@
-import BaseTrip from "./BaseTrip";
-import { LunchDecorator } from "./LunchDecorator";
-import { PrivateDecorator } from "./PrivateDecorator";
+import BaseTrip from "./model/BaseTrip";
+import { LunchDecorator } from "./model/LunchDecorator";
+import { PrivateDecorator } from "./model/PrivateDecorator";
 
 let trip = new BaseTrip();
 let price = trip.takePrice()
