@@ -1,4 +1,3 @@
-import { Observable } from "./Observable";
 import Observer from "./Observer";
 import YoutubeChannel from "./YoutubeChannel";
 

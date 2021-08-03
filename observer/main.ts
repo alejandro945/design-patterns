@@ -10,4 +10,4 @@ channel.attach(s1);
 channel.attach(s2);
 
 channel.addNewVideo('Rendering Props')
-//Print n times => Default Message <= depending of the number os suscriber in channel
+//Print n times => Default Message <= depending of the number of suscriber in channel
