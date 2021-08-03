@@ -1,4 +1,4 @@
-//Concrete Class in this case a bill made in DIAN platform.
+//Concrete Class in this case a bill made in DIAN platform. 
 import Receipt from "./Receipt";
 
 export default class Electronic implements Receipt{
